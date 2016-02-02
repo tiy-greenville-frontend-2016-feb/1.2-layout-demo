@@ -1,0 +1,16 @@
+body {
+  background-color: #0079FF;
+}
+
+img {
+  max-width: 100%;
+}
+
+article {
+  width: 960px;
+  // Top Right Bottom Left
+  margin: 0 auto 0 auto;
+
+  // Top/Bottom Right/Left
+  margin: 0 auto;
+}
