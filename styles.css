@@ -8,14 +8,10 @@ img {
 
 nav {
   float: left;
+  width: 30%;
 }
 
 article {
   float: right;
-  width: 960px;
-  // Top Right Bottom Left
-  margin: 0 auto 0 auto;
-
-  // Top/Bottom Right/Left
-  margin: 0 auto;
+  width: 70%;
 }
