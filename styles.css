@@ -6,7 +6,12 @@ img {
   max-width: 100%;
 }
 
+nav {
+  float: left;
+}
+
 article {
+  float: right;
   width: 960px;
   // Top Right Bottom Left
   margin: 0 auto 0 auto;
